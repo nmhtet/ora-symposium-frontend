@@ -3,7 +3,7 @@ A simple Stateless , Highly scalable React Application Built for a symposium at 
 
 ```If you have missed the first 4 steps , please go to this link```
 
-https://github.com/vamsiramakrishnan/ora-se-symposium-backend/blob/master/README.md
+https://github.com/jahangir2526/ora-symposium-backend/blob/main/README.md
 
 ## Step 5: Deploy React App 
 1. Go to [config.js](https://github.com/vamsiramakrishnan/ora-se-symposium-frontend/blob/master/src/config.js)
